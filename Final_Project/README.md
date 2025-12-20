@@ -8,10 +8,6 @@
 
 [Watch the teaser video here](teaser.mp4)
 
-## Demo Video
-
-[Watch the full demo video here](demo.mp4)
-
 # Description
 
 Lumina Garden is a 3D interactive landscape built with Three.js. You can explore three different environments: valley, forest, and park. Each environment has its own music that plays automatically. You can also change the time of day between morning, sunset, and night to see different lighting effects.
