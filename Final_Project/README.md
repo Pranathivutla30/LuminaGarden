@@ -19,7 +19,7 @@ The three environments are:
 - **Forest**: Dense trees and a waterfall
 - **Park**: Paths, benches, and flower beds
 
-Each environment plays its own music:
+Each environment plays its own music: double click once for the music
 - Valley: "All the Stars"
 - Forest: "Espresso"
 - Park: "Nadaaniyan"
