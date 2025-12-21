@@ -10,7 +10,7 @@
 
 # Description
 
-Lumina Garden is a 3D interactive landscape built with Three.js. You can explore three different environments: valley, forest, and park. Each environment has its own music that plays automatically. You can also change the time of day between morning, sunset, and night to see different lighting effects.
+Lumina Garden is a 3D interactive landscape built with Three.js. You can explore three different environments: valley, forest, and park. Each environment has its own music . You can also change the time of day between morning, sunset, and night to see different lighting effects.
 
 Click anywhere on the landscape to grow glowing light-flowers. Watch butterflies fly around the scene as you explore.
 
@@ -19,7 +19,7 @@ The three environments are:
 - **Forest**: Dense trees and a waterfall
 - **Park**: Paths, benches, and flower beds
 
-Each environment plays its own music: double click once for the music
+Each environment plays its own music: Double click once for the music 
 - Valley: "All the Stars"
 - Forest: "Espresso"
 - Park: "Nadaaniyan"
