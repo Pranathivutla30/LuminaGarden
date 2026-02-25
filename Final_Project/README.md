@@ -4,9 +4,10 @@
 
 ![Lumina Garden Overview](images/picture%201.avif)
 
-## Teaser Video
+## Demo
 
-[Watch the teaser video here](teaser.mp4)
+[Check Out The Demo :)](https://pranathivutla30.github.io/LuminaGarden/Final_Project/)
+
 
 # Description
 
